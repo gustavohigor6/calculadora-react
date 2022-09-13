@@ -82,7 +82,7 @@ function Calculadora() {
             <Button variant="light">.</Button>
           </Col>
           <Col>
-            <Button variant="light">=</Button>
+            <Button variant="success">=</Button>
           </Col>
           <Col>
             <Button variant="warning">+</Button>
